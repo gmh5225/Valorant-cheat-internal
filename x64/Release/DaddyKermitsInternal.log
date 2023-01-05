@@ -1,0 +1,83 @@
+﻿  Entry.cpp
+C:\Users\s\Desktop\Valorant-Internal-main\Canvas.h(43,135): warning C4099: 'FLinearColor': type name first seen using 'class' now seen using 'struct'
+C:\Users\s\Desktop\Valorant-Internal-main\unrealengine.h(91,7): message : see declaration of 'FLinearColor'
+C:\Users\s\Desktop\Valorant-Internal-main\Canvas.h(71,44): warning C4099: 'FString': type name first seen using 'class' now seen using 'struct'
+C:\Users\s\Desktop\Valorant-Internal-main\unrealengine.h(244,7): message : see declaration of 'FString'
+C:\Users\s\Desktop\Valorant-Internal-main\Canvas.h(71,134): warning C4099: 'FLinearColor': type name first seen using 'class' now seen using 'struct'
+C:\Users\s\Desktop\Valorant-Internal-main\unrealengine.h(91,7): message : see declaration of 'FLinearColor'
+C:\Users\s\Desktop\Valorant-Internal-main\Canvas.h(71,182): warning C4099: 'FLinearColor': type name first seen using 'class' now seen using 'struct'
+C:\Users\s\Desktop\Valorant-Internal-main\unrealengine.h(91,7): message : see declaration of 'FLinearColor'
+C:\Users\s\Desktop\Valorant-Internal-main\Canvas.h(71,293): warning C4099: 'FLinearColor': type name first seen using 'class' now seen using 'struct'
+C:\Users\s\Desktop\Valorant-Internal-main\unrealengine.h(91,7): message : see declaration of 'FLinearColor'
+C:\Users\s\Desktop\Valorant-Internal-main\Canvas.h(1006,129): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\s\Desktop\Valorant-Internal-main\Canvas.h(1010,123): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\s\Desktop\Valorant-Internal-main\Canvas.h(1039,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\s\Desktop\Valorant-Internal-main\Canvas.h(1058,104): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\s\Desktop\Valorant-Internal-main\Canvas.h(1065,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\s\Desktop\Valorant-Internal-main\Canvas.h(1078,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\s\Desktop\Valorant-Internal-main\Canvas.h(1386,70): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\s\Desktop\Valorant-Internal-main\Canvas.h(1753,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\s\Desktop\Valorant-Internal-main\Canvas.h(1754,121): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\s\Desktop\Valorant-Internal-main\Canvas.h(1755,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\s\Desktop\Valorant-Internal-main\Canvas.h(1756,121): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\s\Desktop\Valorant-Internal-main\decryption.h(285,1): warning C4005: 'LOBYTE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(206,1): message : see previous definition of 'LOBYTE'
+C:\Users\s\Desktop\Valorant-Internal-main\decryption.h(286,1): warning C4005: 'LOWORD': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(204,1): message : see previous definition of 'LOWORD'
+C:\Users\s\Desktop\Valorant-Internal-main\decryption.h(288,1): warning C4005: 'HIBYTE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(207,1): message : see previous definition of 'HIBYTE'
+C:\Users\s\Desktop\Valorant-Internal-main\decryption.h(289,1): warning C4005: 'HIWORD': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(205,1): message : see previous definition of 'HIWORD'
+C:\Users\s\Desktop\Valorant-Internal-main\decryption.h(595,12): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\s\Desktop\Valorant-Internal-main\decryption.h(600,11): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\s\Desktop\Valorant-Internal-main\decryption.h(603,13): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+C:\Users\s\Desktop\Valorant-Internal-main\Entry.cpp(18,126): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\s\Desktop\Valorant-Internal-main\Entry.cpp(22,126): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\s\Desktop\Valorant-Internal-main\Entry.cpp(27,117): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\s\Desktop\Valorant-Internal-main\Entry.cpp(389,119): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\s\Desktop\Valorant-Internal-main\Entry.cpp(389,111): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\s\Desktop\Valorant-Internal-main\Entry.cpp(556,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\s\Desktop\Valorant-Internal-main\Entry.cpp(756,41): warning C4244: 'argument': conversion from 'uintptr_t' to 'const uint32_t', possible loss of data
+C:\Users\s\Desktop\Valorant-Internal-main\Entry.cpp(768,110): warning C4244: 'return': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xstring(2857,53): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xstring(2718,1): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xstring(2718,37): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+C:\Users\s\Desktop\Valorant-Internal-main\Decryptor.h(207,13): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+C:\Users\s\Desktop\Valorant-Internal-main\Decryptor.h(207,3): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+     Creating library C:\Users\s\Desktop\Valorant-Internal-main\x64\Release\DaddyKermitsInternal.lib and object C:\Users\s\Desktop\Valorant-Internal-main\x64\Release\DaddyKermitsInternal.exp
+  Generating code
+  6 of 242 functions ( 2.5%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  DaddyKermitsInternal.vcxproj -> C:\Users\s\Desktop\Valorant-Internal-main\x64\Release\DaddyKermitsInternal.dll
