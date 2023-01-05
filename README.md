@@ -25,7 +25,6 @@
 #### Misc
 - FOV Changer
 #### Exploits
-- Fly
 - ThirdPerson
 
 
@@ -35,7 +34,10 @@
 ---
 
 
+https://discord.gg/cheesy
 
+
+(not my source just posting cause ive seen alot of rats on the valorant cheat section so im posting this for the ppl that know me)
 
 
 
